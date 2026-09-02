@@ -1,3 +1,4 @@
+# Receba os 2 números inteiros. Calcule e mostre a soma dos quadrados.
 # declarar
 n1: int = 0
 n2: int = 0
