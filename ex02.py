@@ -1,3 +1,4 @@
+# Receba o salário de um funcionário e mostre o novo salário com reajuste de 15%.
 # declarar
 salario: float = 0.0
 reajuste: float = 0.0
