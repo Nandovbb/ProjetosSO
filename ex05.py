@@ -1,5 +1,5 @@
+# Receba os coeficientes A,B e C de uma equação do segundo grau (AX**2+BX+C=0). Calcule e mostre as raízes reais (considerar que a equação possui 2 raízes reais).
 # declarar
-import math
 a: int = 0
 b: int = 0
 c: int = 0
@@ -21,10 +21,10 @@ c = int(input('Digite o valor de C: '))
 delta = (b**2) - (4 * a * c)
 
 # Calcula a primeira raiz da esquaçao com +
-x1 = -b + delta**0.5 / 2 * a
+x1 = (-b + delta**0.5) / (2 * a)
 
 # Calcula a segunda raiz da esquaçao com -
-x2 = -b - delta**0.5 / 2 * a
+x2 = (-b - delta**0.5) / (2 * a)
 
 # retona o resultado das duas raizes
 print('X1 é:', x1, '\nX2 é:', x2)
