@@ -11,7 +11,7 @@ valorI = int(input('Digite quantos quilos de alimento: '))
 gramas= 1000*valorI
 
 #contas quantos dias 
-dias= gramas/50
+dias= gramas//50
 
 #retorna quantos dias vai durar
 print('Esse alimento vai durar:' , dias , 'dias.')
