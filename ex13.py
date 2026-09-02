@@ -14,4 +14,4 @@ gramas= 1000*valorI
 dias= gramas//50
 
 #retorna quantos dias vai durar
-print('Esse alimento vai durar:' , dias , 'dias.')
+print('Esse alimento vai durar:' , int(dias) , 'dias.')
