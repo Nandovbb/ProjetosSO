@@ -1,7 +1,9 @@
+# Receba o ano de nasciumento e ano atul. Calcule e mostre a idade e quantos anos terá daqui daqui a 17 anos
 # declarar
 nasc: int = 0
 ano: int = 0
-conano: int = 0
+idade: int=0
+idade17: int = 0
 # inicio
 # recebe o ano de nascimento
 nasc = int(input('Digite seu ano de nascimento: '))
@@ -10,10 +12,10 @@ nasc = int(input('Digite seu ano de nascimento: '))
 ano = int(input('Digite o atual ano: '))
 
 # faz a conta de quantos anos essa pessoa tem
-conano = ano-nasc
+idade = ano-nasc
 
 # Soma 17 anos a idade da pessoa
-conano = conano+17
+idade17 = idade+17
 
 # retona a idade da pessoa +17
-print('Você terá', conano, 'anos daqui a 17 anos')
+print('Você tem:', idade, '\nE daqui a 17 anos terá:', idade17)
