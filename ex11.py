@@ -1,3 +1,4 @@
+# Receba o raio de uma circunferência. Calcule e mostre o comprimento da circunferência.
 # declarar
 import math
 raio: float = 0
