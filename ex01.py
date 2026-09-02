@@ -1,3 +1,4 @@
+#Coletar o valor do lado de um quadrado, calcular sua areá e apresentar o resultado.
 # declarar
 lado: int = 0
 
