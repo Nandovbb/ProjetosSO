@@ -1,3 +1,4 @@
+# Receba a base e a altura de um triângulo. Calcule e mostre a sua área.
 # declarar
 altura: int = 0
 base: int = 0
