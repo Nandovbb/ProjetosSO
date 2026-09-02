@@ -1,3 +1,4 @@
+# Receba a temperatura em graus Crelsius. Calcule e mostre a sua temperatura convertida em fahrenheit F=(9*C+160)/5.
 # declarar
 c: float = 0
 f: float = 0
