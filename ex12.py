@@ -1,4 +1,4 @@
-# Receba o ano de nasciumento e ano atul. Calcule e mostre a idade e quantos anos terá daqui daqui a 17 anos
+# Receba o ano de nascimento e ano atual. Calcule e mostre a idade e quantos anos terá daqui daqui a 17 anos
 # declarar
 nasc: int = 0
 ano: int = 0
