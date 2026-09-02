@@ -1,3 +1,4 @@
+# Receba 2 números reais. Calcule e mostre a diferença desses valores.
 # declarar
 n1: float = 0
 n2: float = 0
