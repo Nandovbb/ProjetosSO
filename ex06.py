@@ -1,3 +1,4 @@
+# Receba os valores em X e Y. Efetua a troca de seus valores e mostre seus conteúdos.
 # declarar
 X: int = 0
 Y: int = 0
